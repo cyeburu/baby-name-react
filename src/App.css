@@ -1,6 +1,16 @@
-*body {
+html {
+  width: 100%;
+  background-color: aliceblue;
+}
+body {
   width: 0px;
   margin: 0px;
+}
+.App-header {
+  width: 100%;
+}
+.nameContainer {
+  width: 100%;
 }
 
 li {

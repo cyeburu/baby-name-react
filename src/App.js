@@ -5,7 +5,7 @@ import ListOfBabyNames from './ListOfBabyNames'
 
 function App() {
   return (
-    <div >
+    <div className="nameContainer">
       <header className="App-header">
         <ListOfBabyNames />
       </header>
