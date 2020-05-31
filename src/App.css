@@ -1,0 +1,34 @@
+*body {
+  width: 0px;
+  margin: 0px;
+}
+
+li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border: 2px solid pink;
+  border-radius: 8px;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  border: 2px solid pink;
+  border-radius: 5px;
+  padding: 5px;
+}
+.container {
+  border: 5px solid pink;
+  margin-top: 200px;
+  margin-left: 350px;
+  width: 50%;
+}
+.f {
+  background-color: pink;
+  margin: 4px;
+}
+.m {
+  background-color: lightblue;
+}
