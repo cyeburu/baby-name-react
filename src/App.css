@@ -4,9 +4,7 @@
 }
 
 li {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  list-style: none;
   border: 2px solid pink;
   border-radius: 8px;
 }
@@ -18,13 +16,13 @@ ul {
   border: 2px solid pink;
   border-radius: 5px;
   padding: 5px;
-  width: 40%;
+  width: 100%;
 }
 .container {
   border: 5px solid pink;
   margin-top: 200px;
   margin-left: 350px;
-  width: 100%;
+  width: 900px;
 }
 .f {
   background-color: pink;
