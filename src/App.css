@@ -18,12 +18,13 @@ ul {
   border: 2px solid pink;
   border-radius: 5px;
   padding: 5px;
+  width: 40%;
 }
 .container {
   border: 5px solid pink;
   margin-top: 200px;
   margin-left: 350px;
-  width: 50%;
+  width: 100%;
 }
 .f {
   background-color: pink;
